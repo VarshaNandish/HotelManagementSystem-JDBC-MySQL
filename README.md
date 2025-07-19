@@ -68,7 +68,15 @@ private static final String password = "your_password";
 
 ---
 
+## 👩‍💻 Created by
+Varsha S P
+Java Developer | Learner | Enthusiast
+
+---
+
 ## 📄 License
+
+---
 
 This project is for educational/demo purposes only. 
 This project is open-source and free to use for learning or modification.
